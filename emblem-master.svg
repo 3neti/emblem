@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="103mm" height="10mm"
+     viewBox="0 0 103 10">
+
+  <!-- Global: monoline black, 0.8mm stroke, round caps/joins, no fill -->
+  <g stroke="#000000" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+
+    <!-- ═══ Icon 1: Handshake ═══ box 0–10 -->
+    <g id="icon-handshake">
+      <!-- Left arm reaching right, fingers curl -->
+      <path d="M 1,7.5 L 3,5.5 L 6.5,4 C 7.2,3.7 7.8,4.2 7.2,4.8"/>
+      <!-- Right arm reaching left, fingers curl -->
+      <path d="M 9,7.5 L 7,5.5 L 3.5,4 C 2.8,3.7 2.2,4.2 2.8,4.8"/>
+      <!-- Sleeve cuffs -->
+      <path d="M 0.5,8.2 L 1.8,6.8"/>
+      <path d="M 9.5,8.2 L 8.2,6.8"/>
+    </g>
+
+    <!-- ═══ Icon 2: Heart ═══ box 15–25 -->
+    <g id="icon-heart">
+      <path d="M 20,9 C 15.5,6 15,2.5 17.5,1.5 C 19,1 20,2 20,3.5 C 20,2 21,1 22.5,1.5 C 25,2.5 24.5,6 20,9 Z"/>
+    </g>
+
+    <!-- ═══ Icon 3: Peace V-Sign ═══ box 30–40 -->
+    <g id="icon-peace">
+      <!-- Index finger up-left -->
+      <path d="M 33.5,5.5 L 31.5,1"/>
+      <!-- Middle finger up-right -->
+      <path d="M 36.5,5.5 L 38.5,1"/>
+      <!-- Closed fist -->
+      <path d="M 33.5,5.5 L 33.5,7 C 33.5,9 34.2,9.5 35,9.5 C 35.8,9.5 36.5,9 36.5,7 L 36.5,5.5"/>
+    </g>
+
+    <!-- ═══ Icon 4: Pistol ═══ box 45–55 -->
+    <g id="icon-pistol">
+      <!-- Slide / barrel -->
+      <path d="M 46,2 L 54.5,2 L 54.5,4.5 L 46,4.5 Z"/>
+      <!-- Grip -->
+      <path d="M 47,4.5 L 47.5,9 L 50,9 L 50.5,4.5"/>
+      <!-- Trigger guard -->
+      <path d="M 50.5,4.5 C 50.5,7 53,7 53,4.5"/>
+    </g>
+
+    <!-- ═══ Icon 5: Airplane ═══ box 60–70 -->
+    <g id="icon-airplane">
+      <!-- Fuselage (pointed nose right) -->
+      <path d="M 69.5,5 L 67,3.5 L 62,3.5 L 60.5,5 L 62,6.5 L 67,6.5 Z"/>
+      <!-- Wing (top) -->
+      <path d="M 64,3.5 L 65.5,0.8 L 67.5,3.5"/>
+      <!-- Tail fin (top) -->
+      <path d="M 61.5,3.5 L 60.5,1 L 62.5,3.5"/>
+      <!-- Horizontal stabilizer (bottom) -->
+      <path d="M 61.5,6.5 L 60.5,8.5 L 62.5,6.5"/>
+    </g>
+
+    <!-- ═══ Icon 6: Star ═══ box 75–85 -->
+    <g id="icon-star">
+      <!-- 5-point star: outer r=4.2, inner r=1.7, center (80,5) -->
+      <path d="M 80,0.8 L 81,3.62 L 84,3.7 L 81.62,5.53 L 82.47,8.4 L 80,6.7 L 77.53,8.4 L 78.38,5.53 L 76,3.7 L 79,3.62 Z"/>
+    </g>
+
+    <!-- ═══ Icon 7: Rose ═══ box 93–103, stroke 0.7mm -->
+    <g id="icon-rose" stroke-width="0.7">
+      <!-- Outer petal loop -->
+      <path d="M 98,2 C 100.5,1.5 101.5,3.5 100,5 C 98.5,6 95.5,5.5 95.5,3.5 C 95.5,2 97,1.5 98,2"/>
+      <!-- Inner petal spiral -->
+      <path d="M 98,2.8 C 99.5,2.5 100,3.5 99.2,4.3 C 98.5,5 97,4.5 97.2,3.5"/>
+      <!-- Stem -->
+      <path d="M 98,5.5 L 98,9.5"/>
+      <!-- Leaf -->
+      <path d="M 98,7.5 C 99.5,7 100.2,7.8 99,8.3"/>
+    </g>
+
+  </g>
+</svg>
