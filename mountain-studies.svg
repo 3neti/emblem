@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="482mm" height="392mm"
+     viewBox="0 0 482 392">
+  <style>text { font-family: Helvetica, Arial, sans-serif; }</style>
+  <rect width="482" height="392" fill="#F5F5F0"/>
+  <text x="241.0" y="12" text-anchor="middle" font-size="6" font-weight="bold" fill="#333">Mountain Silhouette Studies — Matterhorn-Inspired Chest Placement</text>
+  <rect x="15" y="29" width="140" height="140" rx="4" fill="#FFF" stroke="#DDD" stroke-width="0.3"/>
+  <svg x="36.0" y="50.0" width="98.0" height="98.0" viewBox="0 0 512 512">
+    <path fill="#111" d="M256 32c12.5 0 24.1 6.4 30.8 17L503.4 394.4c5.6 8.9 8.6 19.2 8.6 29.7c0 30.9-25 55.9-55.9 55.9L55.9 480C25 480 0 455 0 424.1c0-10.5 3-20.8 8.6-29.7L225.2 49c6.6-10.6 18.3-17 30.8-17zm65 192L256 120.4 176.9 246.5l18.3 24.4c6.4 8.5 19.2 8.5 25.6 0l25.6-34.1c6-8.1 15.5-12.8 25.6-12.8l49 0z"/>
+  </svg>
+  <text x="85.0" y="174" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">A. Simple Peak</text>
+  <text x="85.0" y="179" text-anchor="middle" font-size="2.4" fill="#888">Font Awesome (CC BY 4.0)</text>
+  <rect x="171" y="29" width="140" height="140" rx="4" fill="#FFF" stroke="#DDD" stroke-width="0.3"/>
+  <svg x="192.0" y="50.0" width="98.0" height="98.0" viewBox="0 0 256 256">
+    <path fill="#111" d="M254.88,195.92l-54.56-92.08A15.87,15.87,0,0,0,186.55,96h0a15.85,15.85,0,0,0-13.76,7.84l-15.64,26.39a4,4,0,0,0,0,4.07l26.8,45.47a8.13,8.13,0,0,1-1.89,10.55,8,8,0,0,1-11.8-2.26L101.79,71.88a16,16,0,0,0-27.58,0L1.11,195.94a8,8,0,0,0,1,9.52A8.23,8.23,0,0,0,8.23,208H247.77a8.29,8.29,0,0,0,6.09-2.55A8,8,0,0,0,254.88,195.92ZM64.43,120,88,80l23.57,40Z"/>
+  </svg>
+  <text x="241.0" y="174" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">B. Mountain Range</text>
+  <text x="241.0" y="179" text-anchor="middle" font-size="2.4" fill="#888">Phosphor Icons (MIT)</text>
+  <rect x="327" y="29" width="140" height="140" rx="4" fill="#FFF" stroke="#DDD" stroke-width="0.3"/>
+  <svg x="348.0" y="50.0" width="98.0" height="98.0" viewBox="0 0 24 24">
+    <path fill="#111" d="M14,6L10.25,11L13.1,14.8L11.5,16C9.81,13.75 7,10 7,10L1,18H23L14,6Z"/>
+  </svg>
+  <text x="397.0" y="174" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">C. Minimal Peak</text>
+  <text x="397.0" y="179" text-anchor="middle" font-size="2.4" fill="#888">Material Design (Apache 2.0)</text>
+  <rect x="15" y="203" width="140" height="140" rx="4" fill="#FFF" stroke="#DDD" stroke-width="0.3"/>
+  <svg x="36.0" y="224.0" width="98.0" height="98.0" viewBox="0 0 200 180">
+    <g fill="#111">
+          <path d="M95,10 L60,65 L38,80 L15,110 L0,170 L200,170 L170,120 L145,85 L125,55 L110,35 Z"/>
+          <!-- Snow cap (negative space) -->
+          <path d="M95,10 L88,30 Q92,35 100,32 L108,28 L110,35 L102,42 Q96,45 90,40 L82,48 L60,65 L78,50 Q88,42 95,38 L105,32 L115,42 L125,55 L110,35 Z" fill="white" opacity="0.25"/>
+        </g>
+  </svg>
+  <text x="85.0" y="348" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">D. Matterhorn — Classic Profile</text>
+  <text x="85.0" y="353" text-anchor="middle" font-size="2.4" fill="#888">Original (hand-drawn study)</text>
+  <rect x="171" y="203" width="140" height="140" rx="4" fill="#FFF" stroke="#DDD" stroke-width="0.3"/>
+  <svg x="192.0" y="224.0" width="98.0" height="98.0" viewBox="0 0 200 180">
+    <g fill="#111">
+          <polygon points="92,8 65,70 42,95 5,170 195,170 160,105 130,60 112,30"/>
+        </g>
+  </svg>
+  <text x="241.0" y="348" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">E. Matterhorn — Sharp Geometric</text>
+  <text x="241.0" y="353" text-anchor="middle" font-size="2.4" fill="#888">Original (hand-drawn study)</text>
+  <rect x="327" y="203" width="140" height="140" rx="4" fill="#FFF" stroke="#DDD" stroke-width="0.3"/>
+  <svg x="348.0" y="224.0" width="98.0" height="98.0" viewBox="0 0 240 180">
+    <g fill="#111">
+          <!-- Main silhouette -->
+          <path d="M108,8 L85,45 L70,65 L52,85 L35,108 L18,135 L5,170 L235,170 L210,130 L185,100 L160,72 L140,48 L125,28 Z"/>
+          <!-- Ridge shadow lines (subtle depth) -->
+          <path d="M108,8 L100,30 L92,55 L85,80 L78,110 L70,145 L65,170" 
+                stroke="white" stroke-width="1.5" fill="none" opacity="0.15"/>
+          <path d="M108,8 L118,35 L128,65 L135,100 L140,140 L142,170" 
+                stroke="white" stroke-width="1" fill="none" opacity="0.1"/>
+          <!-- Snow on summit -->
+          <path d="M108,8 L100,25 L95,35 L103,30 L112,22 L120,32 L125,28 L118,18 Z" fill="white" opacity="0.3"/>
+        </g>
+  </svg>
+  <text x="397.0" y="348" text-anchor="middle" font-size="3" font-weight="bold" fill="#333">F. Matterhorn — With Ridge Detail</text>
+  <text x="397.0" y="353" text-anchor="middle" font-size="2.4" fill="#888">Original (hand-drawn study)</text>
+
+  <text x="15" y="378" font-size="2.8" fill="#666">
+    D, E, F are original Matterhorn silhouettes — the real mountain profile, not the Toblerone trademark.
+  </text>
+  <text x="15" y="383" font-size="2.8" fill="#666">
+    D has a snow cap accent. E is clean geometric. F has subtle ridge detail for depth.
+  </text>
+  <text x="15" y="388" font-size="2.8" fill="#666">
+    Recommended: E (bold, clean) or F (detailed, dramatic) for chest placement in solid-fill style.
+  </text>
+</svg>
