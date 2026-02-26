@@ -1,18 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Emblem Master — left-chest icon sequence for shirt print
+  Emblem Dimensions — left-chest icon sequence for shirt print
   Style: solid black fill (not monoline)
   Sources: SVG Repo, SVG Viewer (CC Attribution / MIT / PD)
   Layout: 7 icons in 10mm boxes, 5mm gaps (1-6), 12mm gap before rose
 -->
 <svg xmlns="http://www.w3.org/2000/svg"
      width="107mm" height="10mm"
-     viewBox="0 0 107 10">
+     viewBox="-1 -4 109 23">
 
   <!-- ═══ Icon 1: Handshake ═══ box 0–10 · Apache, vaadin -->
   <svg x="0" y="0" width="10" height="10" viewBox="0 0 16 16">
     <path fill="#000" d="M13 3c-0.538 0.515-1.185 0.92-1.902 1.178-0.748 0.132-2.818-0.828-3.838 0.152-0.17 0.17-0.38 0.34-0.6 0.51-0.48-0.21-1.22-0.53-1.76-0.84s-1.9-1-1.9-1l-3 3.5s0.74 1 1.2 1.66c0.3 0.44 0.67 1.11 0.91 1.56l-0.34 0.4c-0.058 0.115-0.093 0.25-0.093 0.393 0 0.235 0.092 0.449 0.243 0.607 0.138 0.103 0.311 0.165 0.5 0.165s0.362-0.062 0.502-0.167c-0.094 0.109-0.149 0.249-0.149 0.402 0 0.193 0.088 0.365 0.226 0.479 0.144 0.085 0.317 0.135 0.501 0.135s0.357-0.050 0.505-0.137c-0.112 0.139-0.177 0.313-0.177 0.503s0.065 0.364 0.174 0.502c0.099 0.035 0.214 0.056 0.334 0.056 0.207 0 0.399-0.063 0.558-0.17-0.043 0.095-0.065 0.203-0.065 0.317 0 0.234 0.096 0.445 0.252 0.595 0.13 0.059 0.283 0.093 0.443 0.093 0.226 0 0.437-0.068 0.611-0.185l0.516-0.467c0.472 0.47 1.123 0.761 1.842 0.761 0.020 0 0.041-0 0.061-0.001 0.494-0.042 0.908-0.356 1.094-0.791 0.146 0.056 0.312 0.094 0.488 0.094 0.236 0 0.455-0.068 0.64-0.185 0.585-0.387 0.445-0.687 0.445-0.687 0.125 0.055 0.27 0.087 0.423 0.087 0.321 0 0.61-0.142 0.806-0.366 0.176-0.181 0.283-0.427 0.283-0.697 0-0.19-0.053-0.367-0.145-0.518 0.008 0.005 0.015 0.005 0.021 0.005 0.421 0 0.787-0.232 0.978-0.574 0.068-0.171 0.105-0.363 0.105-0.563 0-0.342-0.11-0.659-0.296-0.917l0.003 0.005c0.82-0.16 0.79-0.57 1.19-1.17 0.384-0.494 0.852-0.902 1.387-1.208zM12.95 10.060c-0.44 0.44-0.78 0.25-1.53-0.32s-2.24-1.64-2.24-1.64c0.061 0.305 0.202 0.57 0.401 0.781 0.319 0.359 1.269 1.179 1.719 1.599 0.28 0.26 1 0.78 0.58 1.18s-0.75 0-1.44-0.56-2.23-1.94-2.23-1.94c-0.001 0.018-0.002 0.038-0.002 0.059 0 0.258 0.104 0.491 0.272 0.661 0.17 0.2 1.12 1.12 1.52 1.54s0.75 0.67 0.41 1-1.030-0.19-1.41-0.58c-0.59-0.57-1.76-1.63-1.76-1.63-0.001 0.016-0.001 0.034-0.001 0.053 0 0.284 0.098 0.544 0.263 0.75 0.288 0.378 0.848 0.868 1.188 1.248s0.54 0.7 0 1-1.34-0.44-1.69-0.8c0-0.001 0-0.001 0-0.002 0-0.103-0.038-0.197-0.1-0.269-0.159-0.147-0.374-0.238-0.609-0.238-0.104 0-0.204 0.018-0.297 0.050 0.128-0.114 0.204-0.274 0.204-0.452s-0.076-0.338-0.198-0.45c-0.126-0.095-0.284-0.152-0.455-0.152s-0.33 0.057-0.457 0.153c0.117-0.113 0.189-0.268 0.189-0.441 0-0.213-0.109-0.4-0.274-0.509-0.153-0.097-0.336-0.153-0.532-0.153-0.244 0-0.468 0.088-0.642 0.233 0.095-0.114 0.151-0.26 0.151-0.42 0-0.195-0.085-0.37-0.219-0.491-0.178-0.165-0.417-0.266-0.679-0.266-0.185 0-0.358 0.050-0.507 0.138l-0.665-1.123c-0.46-0.73-1-1.49-1-1.49l2.28-2.77s0.81 0.5 1.48 0.88c0.33 0.19 0.9 0.44 1.33 0.64-0.68 0.51-1.25 1-1.080 1.34 0.297 0.214 0.668 0.343 1.069 0.343 0.376 0 0.726-0.113 1.018-0.307 0.373-0.251 0.84-0.403 1.343-0.403 0.347 0 0.677 0.072 0.976 0.203 0.554 0.374 1.574 1.294 2.504 1.874v0c1.17 0.85 1.4 1.4 1.12 1.68z"/>
-  </svg>
+  
+  <!-- ═══ GUIDE LAYER ═══ -->
+  <g id="guides" opacity="0.7">
+    <!-- Overall dimension line (107mm) -->
+    <line x1="0" y1="-1.5" x2="107" y2="-1.5" stroke="#E00" stroke-width="0.15"/>
+    <line x1="0" y1="-2" x2="0" y2="-1" stroke="#E00" stroke-width="0.15"/>
+    <line x1="107" y1="-2" x2="107" y2="-1" stroke="#E00" stroke-width="0.15"/>
+    <text x="53.5" y="-2" text-anchor="middle" font-size="1.4" fill="#E00" font-family="Helvetica,Arial,sans-serif">107 mm</text>
+
+    <!-- Icon bounding boxes (dashed) -->
+    <rect x="0" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="15" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="30" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="45" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="60" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="75" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="97" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+
+    <!-- 5mm spacing labels (between icons 1-6) -->
+    <line x1="10" y1="11.5" x2="15" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="12.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="25" y1="11.5" x2="30" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="27.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="40" y1="11.5" x2="45" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="42.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="55" y1="11.5" x2="60" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="57.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="70" y1="11.5" x2="75" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="72.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <!-- 12mm spacing label (star to rose) -->
+    <line x1="85" y1="11.5" x2="97" y2="11.5" stroke="#E00" stroke-width="0.12"/>
+    <line x1="85" y1="11" x2="85" y2="12" stroke="#E00" stroke-width="0.1"/>
+    <line x1="97" y1="11" x2="97" y2="12" stroke="#E00" stroke-width="0.1"/>
+    <text x="91" y="13" text-anchor="middle" font-size="1" fill="#E00" font-family="Helvetica,Arial,sans-serif">12</text>
+
+    <!-- 10mm box size label -->
+    <line x1="0" y1="14.5" x2="10" y2="14.5" stroke="#39F" stroke-width="0.1"/>
+    <line x1="0" y1="14" x2="0" y2="15" stroke="#39F" stroke-width="0.1"/>
+    <line x1="10" y1="14" x2="10" y2="15" stroke="#39F" stroke-width="0.1"/>
+    <text x="5" y="16" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">10 mm box</text>
+
+    <!-- Vertical center line -->
+    <line x1="0" y1="5" x2="107" y2="5" stroke="#39F" stroke-width="0.06" stroke-dasharray="1,0.5" opacity="0.4"/>
+
+    <!-- Icon labels -->
+    <text x="5" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">1</text>
+    <text x="20" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">2</text>
+    <text x="35" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">3</text>
+    <text x="50" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">4</text>
+    <text x="65" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">5</text>
+    <text x="80" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">6</text>
+    <text x="102" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">7</text>
+  </g>
+
+</svg>
 
   <!-- ═══ Icon 2: Heart ═══ box 15–25 · CC Attribution, Amir Baqian -->
   <svg x="15" y="0" width="10" height="10" viewBox="0 0 24 24">
@@ -47,5 +106,64 @@
   <svg x="97" y="0" width="10" height="10" viewBox="-64 0 512 512">
     <path fill="#000" d="M351 72.75C341.5 75.25 333.417 81.375 326.75 91.125C320.083 100.875 316.75 111.5 316.75 123C316.75 132.833 317.125 148.083 317.875 168.75C318.625 189.417 319 204.5 319 214C319 226 317.917 236.333 315.75 245C313.583 253.667 310.792 260.667 307.375 266C303.958 271.333 299.333 275.75 293.5 279.25C287.667 282.75 281.875 285.292 276.125 286.875C270.375 288.458 263.25 289.917 254.75 291.25C261.917 278.75 265.5 265.25 265.5 250.75C265.5 236.25 262.583 221.292 256.75 205.875C250.917 190.458 244.042 176.417 236.125 163.75C228.208 151.083 219.917 140.333 211.25 131.5C227.75 111.667 246.583 96.7917 267.75 86.875C288.917 76.9583 316.667 72.25 351 72.75ZM208 304C233.833 297.833 246.833 281.167 247 254C247.167 242.5 245 230.167 240.5 217C236 203.833 229.625 190.667 221.375 177.5C213.125 164.333 202.667 151.708 190 139.625C177.333 127.542 163.417 116.875 148.25 107.625C133.083 98.375 115.708 91.0833 96.125 85.75C76.5417 80.4167 56.3333 77.9167 35.5 78.25C44.8333 80.75 52.875 87.7917 59.625 99.375C66.375 110.958 69.75 122.667 69.75 134.5C69.75 144.5 69.375 158.833 68.625 177.5C67.875 196.167 67.5 210.167 67.5 219.5C67.5 230.667 69.5833 240.958 73.75 250.375C77.9167 259.792 83.5417 267.75 90.625 274.25C97.7083 280.75 105.917 286.25 115.25 290.75C124.583 295.25 134.375 298.583 144.625 300.75C154.875 302.917 165.333 304 176 304V368C170.833 361.667 162.208 355.25 150.125 348.75C138.042 342.25 125.083 336.75 111.25 332.25C91.5833 325.583 70.7083 322.542 48.625 323.125C26.5417 323.708 10.3333 328 0 336C23.8333 367 52.0833 387 84.75 396C117.417 405 147.833 401 176 384V464C176 472.837 183.163 480 192 480C200.837 480 208 472.837 208 464V432C223 438.833 238.708 442.458 255.125 442.875C271.542 443.292 287.458 440.75 302.875 435.25C318.292 429.75 333.083 421.25 347.25 409.75C361.417 398.25 373.667 384.333 384 368C376 363.167 365.625 359.333 352.875 356.5C340.125 353.667 325.917 352.625 310.25 353.375C294.583 354.125 280.5 357.167 268 362.5C257.5 367 246.667 374.208 235.5 384.125C224.333 394.042 215.167 403.583 208 412.75V304ZM291 56.25C291 60.0833 286.875 64.25 278.625 68.75C270.375 73.25 260.417 77.6667 248.75 82C237.083 86.3333 230.667 88.8333 229.5 89.5C230 85.5 228.292 81.8333 224.375 78.5C220.458 75.1667 216 72.7083 211 71.125C206 69.5417 201.292 68.0417 196.875 66.625C192.458 65.2083 190.167 64.1667 190 63.5C189.167 61.5 193.458 60.2083 202.875 59.625C212.292 59.0417 221.75 58.5417 231.25 58.125C240.75 57.7083 245.25 56.6667 244.75 55C244.417 54 243.375 53.125 241.625 52.375C239.875 51.625 237.542 51 234.625 50.5C231.708 50 228.625 49.5833 225.375 49.25C222.125 48.9167 218.625 48.6667 214.875 48.5C211.125 48.3333 207.875 48.2083 205.125 48.125L196.875 47.875C196.875 47.875 195.25 47.8333 192 47.75C185.5 47.4167 175.083 47.9167 160.75 49.25C146.417 50.5833 139.583 52.6667 140.25 55.5C140.75 57.8333 145 60.3333 153 63C161 65.6667 169.625 68.125 178.875 70.375C188.125 72.625 196.583 75.8333 204.25 80C211.917 84.1667 215.75 88.9167 215.75 94.25C215.75 96.0833 215.583 97.625 215.25 98.875C214.917 100.125 214.083 101.542 212.75 103.125C211.417 104.708 210.25 106.042 209.25 107.125C208.25 108.208 206.25 110.042 203.25 112.625C200.25 115.208 197.75 117.5 195.75 119.5C188.25 111.667 179.833 105.083 170.5 99.75C161.167 94.4167 148.917 90.4167 133.75 87.75C122.417 85.5833 113.083 81.9167 105.75 76.75C98.4167 71.5833 94.75 65.8333 94.75 59.5C94.75 55.1667 96.625 51.375 100.375 48.125C104.125 44.875 109.333 42.2917 116 40.375C122.667 38.4583 129.333 36.875 136 35.625C142.667 34.375 150.208 33.5417 158.625 33.125C167.042 32.7083 173.458 32.4167 177.875 32.25C182.292 32.0833 187 32 192 32C258 32 291 40.0833 291 56.25Z"/>
   </svg>
+
+
+  <!-- ═══ GUIDE LAYER ═══ -->
+  <g id="guides" opacity="0.7">
+    <!-- Overall dimension line (107mm) -->
+    <line x1="0" y1="-1.5" x2="107" y2="-1.5" stroke="#E00" stroke-width="0.15"/>
+    <line x1="0" y1="-2" x2="0" y2="-1" stroke="#E00" stroke-width="0.15"/>
+    <line x1="107" y1="-2" x2="107" y2="-1" stroke="#E00" stroke-width="0.15"/>
+    <text x="53.5" y="-2" text-anchor="middle" font-size="1.4" fill="#E00" font-family="Helvetica,Arial,sans-serif">107 mm</text>
+
+    <!-- Icon bounding boxes (dashed) -->
+    <rect x="0" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="15" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="30" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="45" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="60" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="75" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+    <rect x="97" y="0" width="10" height="10" fill="none" stroke="#39F" stroke-width="0.1" stroke-dasharray="0.5,0.3"/>
+
+    <!-- 5mm spacing labels (between icons 1-6) -->
+    <line x1="10" y1="11.5" x2="15" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="12.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="25" y1="11.5" x2="30" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="27.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="40" y1="11.5" x2="45" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="42.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="55" y1="11.5" x2="60" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="57.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <line x1="70" y1="11.5" x2="75" y2="11.5" stroke="#39F" stroke-width="0.1"/>
+    <text x="72.5" y="13" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">5</text>
+
+    <!-- 12mm spacing label (star to rose) -->
+    <line x1="85" y1="11.5" x2="97" y2="11.5" stroke="#E00" stroke-width="0.12"/>
+    <line x1="85" y1="11" x2="85" y2="12" stroke="#E00" stroke-width="0.1"/>
+    <line x1="97" y1="11" x2="97" y2="12" stroke="#E00" stroke-width="0.1"/>
+    <text x="91" y="13" text-anchor="middle" font-size="1" fill="#E00" font-family="Helvetica,Arial,sans-serif">12</text>
+
+    <!-- 10mm box size label -->
+    <line x1="0" y1="14.5" x2="10" y2="14.5" stroke="#39F" stroke-width="0.1"/>
+    <line x1="0" y1="14" x2="0" y2="15" stroke="#39F" stroke-width="0.1"/>
+    <line x1="10" y1="14" x2="10" y2="15" stroke="#39F" stroke-width="0.1"/>
+    <text x="5" y="16" text-anchor="middle" font-size="1" fill="#39F" font-family="Helvetica,Arial,sans-serif">10 mm box</text>
+
+    <!-- Vertical center line -->
+    <line x1="0" y1="5" x2="107" y2="5" stroke="#39F" stroke-width="0.06" stroke-dasharray="1,0.5" opacity="0.4"/>
+
+    <!-- Icon labels -->
+    <text x="5" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">1</text>
+    <text x="20" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">2</text>
+    <text x="35" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">3</text>
+    <text x="50" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">4</text>
+    <text x="65" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">5</text>
+    <text x="80" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">6</text>
+    <text x="102" y="18" text-anchor="middle" font-size="0.9" fill="#666" font-family="Helvetica,Arial,sans-serif">7</text>
+  </g>
 
 </svg>

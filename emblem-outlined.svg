@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  Emblem Master — left-chest icon sequence for shirt print
-  Style: solid black fill (not monoline)
-  Sources: SVG Repo, SVG Viewer (CC Attribution / MIT / PD)
-  Layout: 7 icons in 10mm boxes, 5mm gaps (1-6), 12mm gap before rose
+  Emblem Outlined — strokes expanded to filled paths
+  NOTE: All icons are already solid fills (no strokes), so this file
+  is identical to emblem-master.svg. Provided for deliverable completeness.
 -->
 <svg xmlns="http://www.w3.org/2000/svg"
      width="107mm" height="10mm"
